@@ -5,7 +5,7 @@ branches:
 environment:
   access_token:
     # EDIT the encrypted version of your GitHub access token
-    secure: hTsWWC76zLQo/yk0xXODhPyDVUIH5sXOFYLb907zfvVDVqFhp1tY0t5C8QeklUG1
+    secure: wzbKyhMp6R7UrTXYP5qEILiDPmkISF7eTUbfOU5dyHAgl7nrMO6I8yaREWr7IUWy
 
 install:
   - git submodule update --init --recursive
@@ -34,9 +34,9 @@ on_success:
   - git rm -rf .
   - xcopy ..\output . /E
   # EDIT your domain name or remove if not using a custom domain
-  #- echo wyam.io > CNAME
+  - echo tesar.tech > CNAME
   # EDIT the origin of your repository - have to reset it here because AppVeyor pulls from SSH, but GitHub won't accept SSH pushes
-  - git remote set-url origin https://github.com/tesar-tech/zodoc.git
+  - git remote set-url origin https://github.com/tesar-tech/tesar-tech_website
   - git add -A
   - git commit -a -m "Commit from AppVeyor"
   - git push
