@@ -5,8 +5,17 @@
 		<link>http://tesar.tech/</link>
 		<description>Jan Tesař</description>
 		<copyright>2018</copyright>
-		<pubDate>Fri, 27 Jul 2018 09:37:46 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Jul 2018 09:37:46 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jul 2018 10:39:37 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jul 2018 10:39:37 GMT</lastBuildDate>
+		<item>
+			<title>Second Post</title>
+			<link>http://tesar.tech/posts/second-post</link>
+			<description>&lt;p&gt;This is test post.&lt;/p&gt;</description>
+			<guid>http://tesar.tech/posts/second-post</guid>
+			<pubDate>Fri, 27 Jul 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is test post.&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>First Post</title>
 			<link>http://tesar.tech/posts/first-post</link>
