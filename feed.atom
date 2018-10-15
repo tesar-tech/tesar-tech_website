@@ -4,24 +4,23 @@
 	<id>http://tesar.tech/</id>
 	<title>Tesař.tech</title>
 	<rights>2018</rights>
-	<updated>2018-07-27T10:39:37Z</updated>
+	<updated>2018-10-15T19:47:44Z</updated>
 	<subtitle>Jan Tesař</subtitle>
 	<entry>
-		<link href="http://tesar.tech/posts/second-post" />
-		<id>http://tesar.tech/posts/second-post</id>
-		<title>Second Post</title>
-		<updated>2018-07-27T00:00:00Z</updated>
-		<content>&lt;p&gt;This is test post.&lt;/p&gt;
+		<link href="http://tesar.tech/posts/5x-pleso" />
+		<id>http://tesar.tech/posts/5x-pleso</id>
+		<title>5x Štrbské pleso</title>
+		<updated>2018-10-14T00:00:00Z</updated>
+		<content>&lt;h1 id="souhrn"&gt;Souhrn&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Vzdálenost : 10,91 km&lt;/li&gt;
+&lt;li&gt;Čas: 45:14&lt;/li&gt;
+&lt;li&gt;Tempo: 4:08&lt;/li&gt;
+&lt;li&gt;10 km: 41:33&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="kola"&gt;Kola&lt;/h1&gt;
+&lt;p&gt;&lt;img src="media/2018-10-15-21-26-42.png" class="img-fluid" alt="" /&gt;&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;This is test post.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="http://tesar.tech/posts/first-post" />
-		<id>http://tesar.tech/posts/first-post</id>
-		<title>First Post</title>
-		<updated>2016-01-01T00:00:00Z</updated>
-		<content>&lt;p&gt;This is my first post!&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;This is my first post!&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;&lt;img src="media/2018-10-15-21-26-42.png" class="img-fluid" alt=""&gt;&lt;/p&gt;</summary>
 	</entry>
 </feed>

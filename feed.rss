@@ -5,24 +5,23 @@
 		<link>http://tesar.tech/</link>
 		<description>Jan Tesař</description>
 		<copyright>2018</copyright>
-		<pubDate>Fri, 27 Jul 2018 10:39:37 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Jul 2018 10:39:37 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Oct 2018 19:47:44 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Oct 2018 19:47:44 GMT</lastBuildDate>
 		<item>
-			<title>Second Post</title>
-			<link>http://tesar.tech/posts/second-post</link>
-			<description>&lt;p&gt;This is test post.&lt;/p&gt;</description>
-			<guid>http://tesar.tech/posts/second-post</guid>
-			<pubDate>Fri, 27 Jul 2018 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;This is test post.&lt;/p&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>First Post</title>
-			<link>http://tesar.tech/posts/first-post</link>
-			<description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
-			<guid>http://tesar.tech/posts/first-post</guid>
-			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;This is my first post!&lt;/p&gt;
+			<title>5x Štrbské pleso</title>
+			<link>http://tesar.tech/posts/5x-pleso</link>
+			<description>&lt;p&gt;&lt;img src="media/2018-10-15-21-26-42.png" class="img-fluid" alt=""&gt;&lt;/p&gt;</description>
+			<guid>http://tesar.tech/posts/5x-pleso</guid>
+			<pubDate>Sun, 14 Oct 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;h1 id="souhrn"&gt;Souhrn&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Vzdálenost : 10,91 km&lt;/li&gt;
+&lt;li&gt;Čas: 45:14&lt;/li&gt;
+&lt;li&gt;Tempo: 4:08&lt;/li&gt;
+&lt;li&gt;10 km: 41:33&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="kola"&gt;Kola&lt;/h1&gt;
+&lt;p&gt;&lt;img src="media/2018-10-15-21-26-42.png" class="img-fluid" alt="" /&gt;&lt;/p&gt;
 </content:encoded>
 		</item>
 	</channel>
