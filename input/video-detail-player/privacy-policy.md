@@ -1,3 +1,7 @@
+ShowInNavbar: false
+Title: Privacy Policy for Video Detail Player
+---
+
 # Privacy Policy
 
 Video Detail Player does not collect, store, share or publish any personal information.
