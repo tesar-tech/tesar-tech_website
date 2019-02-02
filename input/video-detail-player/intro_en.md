@@ -1,5 +1,5 @@
 Title: Video Detail Player
-ShowInNavbar: false
+ShowInNavbar: true
 image: media/video_detail_player_image.png
 ---
 
