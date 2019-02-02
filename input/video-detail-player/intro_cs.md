@@ -5,7 +5,7 @@ image: media/video_detail_player_image.png
 
 # Video Detail Player
 
-[English version](index_en)
+[English version](intro_en)
 
 Přehrávač videa s funkcemi pro detailní analýzu pohybu. Pro Windows 10. Zdarma.
 
