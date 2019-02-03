@@ -37,3 +37,10 @@ Video player for Windows 10 with features for detail analysis of movement.
     <input type="submit" value="Send">
   </fieldset>
 </form>
+
+## Known bugs
+
+- Translation in Markers report is missing (From/To).
+- You can send empty feedback messages.
+- Shortcut for toggling Markes mode is same as for placing Marker (M).
+- There is some issue with .m2ts filename extension.
