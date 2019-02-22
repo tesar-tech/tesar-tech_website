@@ -4,8 +4,18 @@
 	<title>Tesař.tech</title>
 	<link rel="self" href="http://tesar.tech/" />
 	<rights>2019</rights>
-	<updated>2019-02-03T12:12:25Z</updated>
+	<updated>2019-02-22T21:56:50Z</updated>
 	<subtitle>Jan Tesař</subtitle>
+	<entry>
+		<id>http://tesar.tech/posts/matlab-zlehka-barvy</id>
+		<title>Matlab zlehka - Barvy</title>
+		<link href="http://tesar.tech/posts/matlab-zlehka-barvy" />
+		<updated>2019-02-06T00:00:00Z</updated>
+		<content>&lt;p&gt;Článek o Matlabu a barvách publikovaný na itnetwork.cz.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.itnetwork.cz/software/matlab/matlab-zlehka-barvy"&gt;https://www.itnetwork.cz/software/matlab/matlab-zlehka-barvy&lt;/a&gt;&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Článek o Matlabu a barvách publikovaný na itnetwork.cz.&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<id>http://tesar.tech/posts/5x-pleso</id>
 		<title>5x Štrbské pleso</title>
@@ -22,5 +32,56 @@
 &lt;p&gt;&lt;img src="media/2018-10-15-21-26-42.png" class="img-fluid" alt="" /&gt;&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;&lt;img src="media/2018-10-15-21-26-42.png" class="img-fluid" alt=""&gt;&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://tesar.tech/posts/zavodnich-400-m-s-tomtom-runner-3</id>
+		<title>Závodních 400 M S TOMTOM RUNNER 3</title>
+		<link href="http://tesar.tech/posts/zavodnich-400-m-s-tomtom-runner-3" />
+		<updated>2017-06-02T00:00:00Z</updated>
+		<content>&lt;p&gt;Tomtom runner 3 je sportester především pro běžce na delší tratě. Já jsem hodinky vzal závodit na okruh do Kolína, kde jsem absolvoval sprint na 400 m. V článku podrobně analyzuji závod a získaná data. Je na nich krásně vidět průběh tepové frekvence před, během i po závodě v závislosti na tempu, čase a ostatních okolnostech.&lt;/p&gt;
+&lt;p&gt;Článek sepsán pro magazín vzdy.cz &lt;a href="https://www.vzdy.cz/extra/magazin/outdoor-a-sport/zavodnich-400-m-s-tomtom-runner-3"&gt;https://www.vzdy.cz/extra/magazin/outdoor-a-sport/zavodnich-400-m-s-tomtom-runner-3&lt;/a&gt;&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Tomtom runner 3 je sportester především pro běžce na delší tratě. Já jsem hodinky vzal závodit na okruh do Kolína, kde jsem absolvoval sprint na 400 m. V článku podrobně analyzuji závod a získaná data. Je na nich krásně vidět průběh tepové frekvence před, během i po závodě v závislosti na tempu, čase a ostatních okolnostech.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://tesar.tech/posts/zapisovatko-morseovky-s-arduinem</id>
+		<title>Zapisovátko Morseovky s Arduinem</title>
+		<link href="http://tesar.tech/posts/zapisovatko-morseovky-s-arduinem" />
+		<updated>2016-10-05T00:00:00Z</updated>
+		<content>&lt;p&gt;Tvorba zapisovátka morseovy abecedy postaveného na Arduinu.
+Článek publikovaný na itnetwork.cz.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.itnetwork.cz/hardware-pc/arduino/zapisovatko-morseovky-s-arduinem"&gt;https://www.itnetwork.cz/hardware-pc/arduino/zapisovatko-morseovky-s-arduinem&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kód sídlí těž v &lt;a href="https://github.com/tesar-tech/arduino_and_morse_code"&gt;repozitáři&lt;/a&gt; na githubu.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Tvorba zapisovátka morseovy abecedy postaveného na Arduinu.
+Článek publikovaný na itnetwork.cz.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://tesar.tech/posts/rana-recenze-windows-10-mobile</id>
+		<title>Raná recenze Windows 10 Mobile</title>
+		<link href="http://tesar.tech/posts/rana-recenze-windows-10-mobile" />
+		<updated>2015-09-05T00:00:00Z</updated>
+		<content>&lt;p&gt;Únor 2019: Tehdy v roce 2015 byl Windows 10 mobile čerstvým nástupcem Windows Phone 8.1. Systém v preview verzi fungoval s problémy i na mojí Lumii 720, která disponovala pouze 512 MB RAM. Tyto slabší zařízení Microsoft časem zaříznul. Vývoj Windows 10 mobile byl během let výrazně utlumen. Podpora končí v prosinci roku 2019 a nástupce se nechystá.&lt;/p&gt;
+&lt;p&gt;Tento článek je právě z doby, kdy to s telefony s Windows vypadalo alespoň trochu nadějně.
+Publikován na itnetwork.cz.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.itnetwork.cz/mobilni-zarizeni/rana-recenze-windows-10-mobile"&gt;https://www.itnetwork.cz/mobilni-zarizeni/rana-recenze-windows-10-mobile&lt;/a&gt;&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Únor 2019: Tehdy v roce 2015 byl Windows 10 mobile čerstvým nástupcem Windows Phone 8.1. Systém v preview verzi fungoval s problémy i na mojí Lumii 720, která disponovala pouze 512 MB RAM. Tyto slabší zařízení Microsoft časem zaříznul. Vývoj Windows 10 mobile byl během let výrazně utlumen. Podpora končí v prosinci roku 2019 a nástupce se nechystá.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://tesar.tech/posts/recenze-sporttesteru-tomtom-cardio-multisport</id>
+		<title>Recenze sporttesteru TOMTOM Cardio Multisport</title>
+		<link href="http://tesar.tech/posts/recenze-sporttesteru-tomtom-cardio-multisport" />
+		<updated>2015-05-03T00:00:00Z</updated>
+		<content>&lt;p&gt;Série tří článků recenzujících sporttester od TomTomu.&lt;/p&gt;
+&lt;p&gt;(2019) Nebyl špatný, dal se ohnout i pro trénink čtvrtkaře, nicméně dnes se vývoj již výrazně posunul. Lepší senzory, lepší provedení, propracovanější aplikace k analýze naměřených dat - to jsou věci ve kterých se sporttestery od TomTomu změnily.&lt;/p&gt;
+&lt;p&gt;Články publikovány v magazínu vzdy.cz.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.vzdy.cz/extra/magazin/outdoor-a-sport/recenze-sporttesteru-tomtom-cardio-multisport-i-serial-tipu-triku-a-doporuceni-od-ceskeho-reprezentanta-v-atletice-jana-tesare"&gt;https://www.vzdy.cz/extra/magazin/outdoor-a-sport/recenze-sporttesteru-tomtom-cardio-multisport-i-serial-tipu-triku-a-doporuceni-od-ceskeho-reprezentanta-v-atletice-jana-tesare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.vzdy.cz/extra/magazin/outdoor-a-sport/recenze-sporttesteru-tomtom-cardio-multisport-ii-serial-tipu-triku-a-doporuceni-od-ceskeho-reprezentanta-v-atletice-jana-tesare"&gt;https://www.vzdy.cz/extra/magazin/outdoor-a-sport/recenze-sporttesteru-tomtom-cardio-multisport-ii-serial-tipu-triku-a-doporuceni-od-ceskeho-reprezentanta-v-atletice-jana-tesare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.vzdy.cz/extra/magazin/outdoor-a-sport/minutovky-s-tomtom"&gt;https://www.vzdy.cz/extra/magazin/outdoor-a-sport/minutovky-s-tomtom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>&lt;p&gt;Série tří článků recenzujících sporttester od TomTomu.&lt;/p&gt;</summary>
 	</entry>
 </feed>
