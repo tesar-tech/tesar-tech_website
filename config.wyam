@@ -4,5 +4,5 @@
 Settings[Keys.Host] = "tesar.tech";
 Settings[BlogKeys.Title] = "Tesař.tech";
 Settings[BlogKeys.Description] = "Jan Tesař";
-
+Settings[BlogKeys.IndexPageSize] = 20;
 // Add any pipeline customizations here
