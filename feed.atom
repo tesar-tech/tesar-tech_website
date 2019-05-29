@@ -4,8 +4,39 @@
 	<title>Tesař.tech</title>
 	<link rel="self" href="http://tesar.tech/" />
 	<rights>2019</rights>
-	<updated>2019-02-22T21:56:50Z</updated>
+	<updated>2019-05-29T20:23:13Z</updated>
 	<subtitle>Jan Tesař</subtitle>
+	<entry>
+		<id>http://tesar.tech/posts/matlab-zlehka-vektory-a-matice-dejstvi-druhe</id>
+		<title>Matlab zlehka - Vektory a matice dějství druhé</title>
+		<link href="http://tesar.tech/posts/matlab-zlehka-vektory-a-matice-dejstvi-druhe" />
+		<updated>2019-05-29T00:00:00Z</updated>
+		<content>&lt;p&gt;Druhý článek o maticích a vektorech v Matlabu publikovaný na itnetwork.cz.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.itnetwork.cz/software/matlab/matlab-zlehka-vektory-a-matice-dejstvi-prvni"&gt;https://www.itnetwork.cz/software/matlab/matlab-zlehka-vektory-a-matice-dejstvi-prvni&lt;/a&gt;&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Druhý článek o maticích a vektorech v Matlabu publikovaný na itnetwork.cz.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://tesar.tech/posts/stafetova-yokohama-2019</id>
+		<title>Štafetová Yokohama 2019</title>
+		<link href="http://tesar.tech/posts/stafetova-yokohama-2019" />
+		<updated>2019-05-15T00:00:00Z</updated>
+		<content>&lt;p&gt;V půlce května se v japonské Jokohamě uskutečnilo Mistrovství světa štafet. Nakonec – po diskvalifikaci Američanů – jsme urvali 10. místo, které nám zajistilo účast na říjnovém Mistrovství světa v Doha.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/RzhIAYVXZhE?t=4538"&gt;Video z rozběhu&lt;/a&gt;, já na prvním úseku.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/CUmNp9JqD7U?t=3608"&gt;Video z finále&lt;/a&gt;, opět první úsek.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;V půlce května se v japonské Jokohamě uskutečnilo Mistrovství světa štafet. Nakonec – po diskvalifikaci Američanů – jsme urvali 10. místo, které nám zajistilo účast na říjnovém Mistrovství světa v Doha.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://tesar.tech/posts/matlab-zlehka-vektory-a-matice-dejstvi-prvni</id>
+		<title>Matlab zlehka - Vektory a matice dějství první</title>
+		<link href="http://tesar.tech/posts/matlab-zlehka-vektory-a-matice-dejstvi-prvni" />
+		<updated>2019-03-04T00:00:00Z</updated>
+		<content>&lt;p&gt;První článek vektorech a maticích v Matlabu publikovaný na itnetwork.cz.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.itnetwork.cz/software/matlab/matlab-zlehka-vektory-a-matice-dejstvi-prvni"&gt;https://www.itnetwork.cz/software/matlab/matlab-zlehka-vektory-a-matice-dejstvi-prvni&lt;/a&gt;&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;První článek vektorech a maticích v Matlabu publikovaný na itnetwork.cz.&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<id>http://tesar.tech/posts/matlab-zlehka-barvy</id>
 		<title>Matlab zlehka - Barvy</title>
