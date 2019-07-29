@@ -5,8 +5,28 @@
 		<link>http://tesar.tech/</link>
 		<description>Jan Tesař</description>
 		<copyright>2019</copyright>
-		<pubDate>Wed, 29 May 2019 20:23:13 GMT</pubDate>
-		<lastBuildDate>Wed, 29 May 2019 20:23:13 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Jul 2019 19:53:15 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Jul 2019 19:53:15 GMT</lastBuildDate>
+		<item>
+			<title>Porovnávání hodnot a podmínky v MATLAB</title>
+			<link>http://tesar.tech/posts/porovnavani-hodnot-a-podminky-v-matlab</link>
+			<description>&lt;p&gt;Článek o podmínkách a operátorech porovnávání v Matlabu  publikovaný na itnetwork.cz.&lt;/p&gt;</description>
+			<guid>http://tesar.tech/posts/porovnavani-hodnot-a-podminky-v-matlab</guid>
+			<pubDate>Sat, 20 Jul 2019 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Článek o podmínkách a operátorech porovnávání v Matlabu  publikovaný na itnetwork.cz.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.itnetwork.cz/software/matlab/porovnavani-hodnot-a-podminky-v-matlab"&gt;https://www.itnetwork.cz/software/matlab/porovnavani-hodnot-a-podminky-v-matlab&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>MATLAB zlehka - Deep learning na tři řádky</title>
+			<link>http://tesar.tech/posts/matlab-zlehka-deep-learning-na-tri-radky</link>
+			<description>&lt;p&gt;Úvod do deep learningu s pomocí Matlabu publikovaný na itnetwork.cz.&lt;/p&gt;</description>
+			<guid>http://tesar.tech/posts/matlab-zlehka-deep-learning-na-tri-radky</guid>
+			<pubDate>Fri, 21 Jun 2019 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Úvod do deep learningu s pomocí Matlabu publikovaný na itnetwork.cz.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.itnetwork.cz/software/matlab/matlab-zlehka-deep-learning-na-tri-radky"&gt;https://www.itnetwork.cz/software/matlab/matlab-zlehka-deep-learning-na-tri-radky&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>Matlab zlehka - Vektory a matice dějství druhé</title>
 			<link>http://tesar.tech/posts/matlab-zlehka-vektory-a-matice-dejstvi-druhe</link>
