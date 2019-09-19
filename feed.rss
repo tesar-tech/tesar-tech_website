@@ -5,8 +5,35 @@
 		<link>http://tesar.tech/</link>
 		<description>Jan Tesař</description>
 		<copyright>2019</copyright>
-		<pubDate>Tue, 17 Sep 2019 22:26:07 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Sep 2019 22:26:07 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Sep 2019 06:59:05 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Sep 2019 06:59:05 GMT</lastBuildDate>
+		<item>
+			<title>Zobrazení grafů v MATLABu</title>
+			<link>http://tesar.tech/posts/zobrazeni-grafu-v-matlabu</link>
+			<description>&lt;p&gt;Zobrazení dvourozměrných dat ve formě rozličných grafů. Demonstrováno na datech vývoje české populace a tvorbě souhvězdí Velkého vozu. &lt;a href="https://www.itnetwork.cz/software/matlab/zobrazeni-grafu-v-matlabu"&gt;Publikováno na itnetwork.cz&lt;/a&gt;.&lt;/p&gt;</description>
+			<guid>http://tesar.tech/posts/zobrazeni-grafu-v-matlabu</guid>
+			<pubDate>Mon, 16 Sep 2019 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Zobrazení dvourozměrných dat ve formě rozličných grafů. Demonstrováno na datech vývoje české populace a tvorbě souhvězdí Velkého vozu. &lt;a href="https://www.itnetwork.cz/software/matlab/zobrazeni-grafu-v-matlabu"&gt;Publikováno na itnetwork.cz&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Čtvrtkaři finišují přípravu Na Dauhá</title>
+			<link>http://tesar.tech/posts/ctvrtkari-finisuji-priprava-na-dauha</link>
+			<description>&lt;p&gt;Článek o přípravě české čtvrtkařské štafety na Mistrovství světa v Katarském Dauhá 2019. &lt;a href="https://www.atletika.cz/aktuality/ctvrtkari-finisuji-pripravu-na-dauha/"&gt;Publikováno na atletika.cz&lt;/a&gt;.&lt;/p&gt;</description>
+			<guid>http://tesar.tech/posts/ctvrtkari-finisuji-priprava-na-dauha</guid>
+			<pubDate>Sun, 15 Sep 2019 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Článek o přípravě české čtvrtkařské štafety na Mistrovství světa v Katarském Dauhá 2019. &lt;a href="https://www.atletika.cz/aktuality/ctvrtkari-finisuji-pripravu-na-dauha/"&gt;Publikováno na atletika.cz&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Cykly a maticový přístup v MATLAB</title>
+			<link>http://tesar.tech/posts/cykly-a-maticovy-pristup-v-matlab</link>
+			<description>&lt;p&gt;Syntaxe a popis cyklů v MATALBu. Porovnání a vysvětlení maticového přístupu, včetně praktických ukázek. &lt;a href="https://www.itnetwork.cz/software/matlab/cykly-a-maticovy-pristup-v-matlab"&gt;Publikováno na itnetwork.cz&lt;/a&gt;.&lt;/p&gt;</description>
+			<guid>http://tesar.tech/posts/cykly-a-maticovy-pristup-v-matlab</guid>
+			<pubDate>Fri, 16 Aug 2019 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Syntaxe a popis cyklů v MATALBu. Porovnání a vysvětlení maticového přístupu, včetně praktických ukázek. &lt;a href="https://www.itnetwork.cz/software/matlab/cykly-a-maticovy-pristup-v-matlab"&gt;Publikováno na itnetwork.cz&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>Porovnávání hodnot a podmínky v MATLAB</title>
 			<link>http://tesar.tech/posts/porovnavani-hodnot-a-podminky-v-matlab</link>
