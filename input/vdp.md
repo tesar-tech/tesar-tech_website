@@ -44,3 +44,5 @@ Video player for Windows 10 with features for detail analysis of movement.
 - You can send empty feedback messages.
 - Shortcut for toggling Markes mode is same as for placing Marker (M).
 - There is some issue with .m2ts filename extension.
+- Doesn't respect changed speed after restarting app
+- No file size in video info
