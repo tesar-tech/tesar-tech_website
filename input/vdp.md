@@ -20,6 +20,7 @@ Video player for Windows 10 with features for detail analysis of movement.
 - Zoom important details 
 - Analyze intervals with markers mode 
 - Play videos side by side 
+- Trims videos to new files in original resolution (from marker menu)"
 - Controlled by touch, keyboard or mouse
 - Navigate through video with markers
 - Stores position in playback 
@@ -40,9 +41,12 @@ Video player for Windows 10 with features for detail analysis of movement.
 
 ## Known bugs
 
+- There is some issue with .m2ts filename extension.
+
+## Old bugs
+
 - Translation in Markers report is missing (From/To).
 - You can send empty feedback messages.
 - Shortcut for toggling Markes mode is same as for placing Marker (M).
-- There is some issue with .m2ts filename extension.
 - Doesn't respect changed speed after restarting app
 - No file size in video info
