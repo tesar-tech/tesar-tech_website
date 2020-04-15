@@ -5,8 +5,8 @@
 		<link>http://tesar.tech/</link>
 		<description>Jan Tesař</description>
 		<copyright>2020</copyright>
-		<pubDate>Mon, 13 Apr 2020 17:56:34 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Apr 2020 17:56:34 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Apr 2020 17:41:14 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Apr 2020 17:41:14 GMT</lastBuildDate>
 		<item>
 			<title>Zobrazení grafů v MATLABu</title>
 			<link>http://tesar.tech/posts/zobrazeni-grafu-v-matlabu</link>
@@ -51,6 +51,16 @@
 			<guid>http://tesar.tech/posts/matlab-zlehka-deep-learning-na-tri-radky</guid>
 			<pubDate>Fri, 21 Jun 2019 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;Úvod do deep learningu s pomocí Matlabu publikovaný na itnetwork.cz.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.itnetwork.cz/software/matlab/matlab-zlehka-deep-learning-na-tri-radky"&gt;https://www.itnetwork.cz/software/matlab/matlab-zlehka-deep-learning-na-tri-radky&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>MATLAB zlehka - Transfer learning</title>
+			<link>http://tesar.tech/posts/matlab-zlehka-transfer-learning</link>
+			<description>&lt;p&gt;Neuronová síť alexnet se naučí rozpoznávat tvary (kruhy a obdélníky). Publikováno na itnetwork.cz.&lt;/p&gt;</description>
+			<guid>http://tesar.tech/posts/matlab-zlehka-transfer-learning</guid>
+			<pubDate>Fri, 21 Jun 2019 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Neuronová síť alexnet se naučí rozpoznávat tvary (kruhy a obdélníky). Publikováno na itnetwork.cz.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.itnetwork.cz/software/matlab/matlab-zlehka-deep-learning-na-tri-radky"&gt;https://www.itnetwork.cz/software/matlab/matlab-zlehka-deep-learning-na-tri-radky&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
 		</item>
