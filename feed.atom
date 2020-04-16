@@ -4,17 +4,18 @@
 	<title>Tesař.tech</title>
 	<link rel="self" href="http://tesar.tech/" />
 	<rights>2020</rights>
-	<updated>2020-04-16T17:55:59Z</updated>
+	<updated>2020-04-16T21:28:19Z</updated>
 	<subtitle>Jan Tesař</subtitle>
 	<entry>
 		<id>http://tesar.tech/posts/matlab-zlehka-transfer-learning</id>
 		<title>MATLAB zlehka - Transfer learning</title>
 		<link href="http://tesar.tech/posts/matlab-zlehka-transfer-learning" />
 		<updated>2020-02-21T00:00:00Z</updated>
-		<content>&lt;p&gt;Neuronová síť alexnet se naučí rozpoznávat tvary (kruhy a obdélníky). Publikováno na itnetwork.cz.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.itnetwork.cz/software/matlab/matlab-zlehka-deep-learning-na-tri-radky"&gt;https://www.itnetwork.cz/software/matlab/matlab-zlehka-deep-learning-na-tri-radky&lt;/a&gt;&lt;/p&gt;
+		<content>&lt;p&gt;Neuronová síť alexnet se naučí rozpoznávat tvary (kruhy a obdélníky).
+&lt;a href="https://www.itnetwork.cz/software/matlab/matlab-zlehka-deep-learning-na-tri-radky"&gt;Publikováno na itnetwork.cz &lt;/a&gt;.&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;Neuronová síť alexnet se naučí rozpoznávat tvary (kruhy a obdélníky). Publikováno na itnetwork.cz.&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;Neuronová síť alexnet se naučí rozpoznávat tvary (kruhy a obdélníky).
+&lt;a href="https://www.itnetwork.cz/software/matlab/matlab-zlehka-deep-learning-na-tri-radky"&gt;Publikováno na itnetwork.cz &lt;/a&gt;.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<id>http://tesar.tech/posts/zobrazeni-grafu-v-matlabu</id>
