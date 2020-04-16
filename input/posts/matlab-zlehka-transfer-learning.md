@@ -1,5 +1,5 @@
 Title: MATLAB zlehka - Transfer learning
-Published: 2019-06-21
+Published: 2020-02-21
 Tags: [matlab, itnetwork.cz, deep learning, zpracování obrazu, programování, transfer learning ]
 ---
 
