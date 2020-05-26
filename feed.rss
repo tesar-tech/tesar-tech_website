@@ -5,8 +5,27 @@
 		<link>http://tesar.tech/</link>
 		<description>Jan Tesař</description>
 		<copyright>2020</copyright>
-		<pubDate>Thu, 16 Apr 2020 21:28:19 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Apr 2020 21:28:19 GMT</lastBuildDate>
+		<pubDate>Tue, 26 May 2020 08:48:23 GMT</pubDate>
+		<lastBuildDate>Tue, 26 May 2020 08:48:23 GMT</lastBuildDate>
+		<item>
+			<title>Rename photos tool</title>
+			<link>http://tesar.tech/posts/rename-photos-tool</link>
+			<description>&lt;p&gt;I made a simple dotnet global tool that helps renaming my photos by EXIF date taken metadata.&lt;/p&gt;</description>
+			<guid>http://tesar.tech/posts/rename-photos-tool</guid>
+			<pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;I made a simple dotnet global tool that helps renaming my photos by EXIF date taken metadata.&lt;/p&gt;
+&lt;p&gt;Original: &lt;code&gt;DSC106.jpg&lt;/code&gt; =&amp;gt; New: &lt;code&gt;20200312_2345.jpg&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;It is written in C#, but the core functionality is powershell script.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/tesar-tech/RenamePhotos"&gt;https://github.com/tesar-tech/RenamePhotos&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="install"&gt;Install&lt;/h2&gt;
+&lt;blockquote class="blockquote"&gt;
+&lt;p&gt;dotnet tool install renamephotos -g&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="https://www.nuget.org/packages/RenamePhotos/"&gt;&lt;img src="https://img.shields.io/nuget/v/RenamePhotos.svg" class="img-fluid" alt="RenamePhotos" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="usage"&gt;Usage&lt;/h2&gt;
+&lt;p&gt;Use &lt;code&gt;RenamePhotos&lt;/code&gt; command in folder with &lt;code&gt;.jpg&lt;/code&gt;  pictures.&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>MATLAB zlehka - Transfer learning</title>
 			<link>http://tesar.tech/posts/matlab-zlehka-transfer-learning</link>
