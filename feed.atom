@@ -4,8 +4,19 @@
 	<title>Tesař.tech</title>
 	<link rel="self" href="http://tesar.tech/" />
 	<rights>2020</rights>
-	<updated>2020-05-26T08:48:23Z</updated>
+	<updated>2020-06-19T17:21:27Z</updated>
 	<subtitle>Jan Tesař</subtitle>
+	<entry>
+		<id>http://tesar.tech/posts/custom-accelerators</id>
+		<title>Custom Accelerators (Library and XAML control for keyboard ⌨ shortcuts customization)</title>
+		<link href="http://tesar.tech/posts/custom-accelerators" />
+		<updated>2020-06-19T00:00:00Z</updated>
+		<content>&lt;img src="media/vdp_changing_shortcuts.gif" width="500"&gt;
+&lt;p&gt;I made this library to simplify keyboard shortcuts editing. It's working (for example in &lt;a href="https://www.microsoft.com/en-us/p/video-detail-player/9p34ghb2h88r"&gt;Video Detail Player&lt;/a&gt;), open sourced and available for other uwp apps via NuGet package.&lt;/p&gt;
+&lt;p&gt;More information on github: &lt;a href="https://github.com/tesar-tech/CustomAccelerators"&gt;https://github.com/tesar-tech/CustomAccelerators&lt;/a&gt;&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;I made this library to simplify keyboard shortcuts editing. It's working (for example in &lt;a href="https://www.microsoft.com/en-us/p/video-detail-player/9p34ghb2h88r"&gt;Video Detail Player&lt;/a&gt;), open sourced and available for other uwp apps via NuGet package.&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<id>http://tesar.tech/posts/rename-photos-tool</id>
 		<title>Rename photos tool</title>
