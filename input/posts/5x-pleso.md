@@ -1,5 +1,5 @@
 Title: 5x Štrbské pleso 
-Published: 10/14/2018
+Published: 2018-10-14
 Tags:
 - running
 - tatry
