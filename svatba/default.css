@@ -1,0 +1,51 @@
+
+html, body
+{
+	height: 100%;
+}
+
+html { 
+	background: url(images/kráva.JPG) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+  }
+
+
+#inner-header,#inner-content
+{
+	padding: 20px;
+}
+
+#inner-header
+{
+	background-color: #0074C6;
+	color: #fcfcfc;
+}
+
+#wrapper
+{
+	font-family: "wf_segoe-ui_light","Segoe UI Light","Segoe WP Light","Segoe UI","Segoe WP",Tahoma,Arial,sans-serif;
+	background: #FFFFFFBB;
+	width: 600px;
+	max-width:  100%;
+	margin: auto;
+}
+
+#hero-image
+{
+	width: 100%;
+	height: 300px;
+	background-image: url(images/IMG_9875.JPG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 40% 19%;
+
+}
+#hero-image img{
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}
+
