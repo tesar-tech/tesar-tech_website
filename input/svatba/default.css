@@ -5,11 +5,11 @@ html, body
 }
 
 html { 
-	background: url(images/kráva.JPG) no-repeat center center fixed; 
-	-webkit-background-size: cover;
+	background: url(images/stromy.png) repeat center center fixed;
+	/* -webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;
+	background-size: cover; */
   }
 body
 {
@@ -18,21 +18,22 @@ body
 	padding: 0px;
 }
 
-#inner-header,#inner-content
+#inner-header,#inner-content,#inner-footer
 {
 	padding: 20px;
 }
 
-#inner-header
+#inner-header,#inner-footer
 {
-	background-color: #0074C6;
+	/* background-color: #0074C6; */
+	background-color: #CE4B28;
 	color: #fcfcfc;
 }
 
 #wrapper
 {
 	 font-family: "wf_segoe-ui_light","Segoe UI Light","Segoe WP Light","Segoe UI","Segoe WP",Tahoma,Arial,sans-serif; 
-	background: #FFFFFFBB;
+	background: #FFFFFFCC;
 	max-width: 63em ;
 	 margin: auto; 
 	
