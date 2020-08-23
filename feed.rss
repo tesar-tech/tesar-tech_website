@@ -5,8 +5,8 @@
 		<link>http://tesar.tech/</link>
 		<description>Jan Tesař</description>
 		<copyright>2020</copyright>
-		<pubDate>Sun, 23 Aug 2020 05:42:04 GMT</pubDate>
-		<lastBuildDate>Sun, 23 Aug 2020 05:42:04 GMT</lastBuildDate>
+		<pubDate>Sun, 23 Aug 2020 05:57:57 GMT</pubDate>
+		<lastBuildDate>Sun, 23 Aug 2020 05:57:57 GMT</lastBuildDate>
 		<item>
 			<title>Nejdelší české slovo obsahující pouze písmena s diakritikou</title>
 			<link>http://tesar.tech/posts/nejdelsi-ceske-slovo-obsahujici-pouze-pismena-s-diakritikou</link>
@@ -23,7 +23,7 @@
 &lt;p&gt;Při hledání slovníku jsem se progůglil k Českému národnímu korpusu a posléze k webové aplikaci &lt;a href="https://kontext.korpus.cz/first_form"&gt;kontext&lt;/a&gt;, která umožňuje dotazovat korpus (rozsáhlý soubor autentických textů) a to včetně pomocí regulárních výrazů.&lt;/p&gt;
 &lt;img src="media/2020_korpus.png" alt="korpus" width="600"/&gt;
 &lt;p&gt;Slov o délce 5 obsahující pouze diakritická písmena &lt;a href="https://kontext.korpus.cz/view?ctxattrs=word&amp;amp;attr_vmode=mouseover&amp;amp;pagesize=40&amp;amp;refs=%3Ddoc.title&amp;amp;q=%7E7wjGy2BIRzDU&amp;amp;viewmode=kwic&amp;amp;attrs=word&amp;amp;corpname=syn_v8&amp;amp;attr_allpos=all"&gt;našel korpus&lt;/a&gt; 363, většina z nich jsou však citoslovce.&lt;/p&gt;
-&lt;p&gt;Další funkci, kterou korpus nabízí je zobrazení pomocí frekvence výskytu. Sloučí to všechny ááááá a Ááááá a přehled se scvrkne na 27 položek.&lt;/p&gt;
+&lt;p&gt;Další funkci, kterou korpus nabízí je zobrazení pomocí frekvence výskytu. Sloučí to všechny ááááá a Ááááá a přehled se scvrkne na 29 položek.&lt;/p&gt;
 &lt;img src="media/2020-07-24-11-30-53.png" alt="korpus" width="600"/&gt;
 &lt;p&gt;Celkem vysoko se nachází &lt;strong&gt;šíříš&lt;/strong&gt; a nově i &lt;strong&gt;žďáří&lt;/strong&gt;, další slovo s 5 znaky. Zde je snadné provést &amp;quot;fintu&amp;quot; s převedením do druhé osoby jednotného čísla času přítomného a získáme navíc jedno &lt;code&gt;š&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id="zdaris"&gt;Žďáříš !!!&lt;/h2&gt;
