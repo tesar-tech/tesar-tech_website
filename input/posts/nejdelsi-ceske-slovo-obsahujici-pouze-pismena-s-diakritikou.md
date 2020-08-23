@@ -22,7 +22,7 @@ Při hledání slovníku jsem se progůglil k Českému národnímu korpusu a po
 
 Slov o délce 5 obsahující pouze diakritická písmena [našel korpus](https://kontext.korpus.cz/view?ctxattrs=word&attr_vmode=mouseover&pagesize=40&refs=%3Ddoc.title&q=~7wjGy2BIRzDU&viewmode=kwic&attrs=word&corpname=syn_v8&attr_allpos=all) 363, většina z nich jsou však citoslovce.
 
-Další funkci, kterou korpus nabízí je zobrazení pomocí frekvence výskytu. Sloučí to všechny ááááá a Ááááá a přehled se scvrkne na 27 položek.
+Další funkci, kterou korpus nabízí je zobrazení pomocí frekvence výskytu. Sloučí to všechny ááááá a Ááááá a přehled se scvrkne na 29 položek.
 
 <img src="media/2020-07-24-11-30-53.png" alt="korpus" width="600"/>
 
